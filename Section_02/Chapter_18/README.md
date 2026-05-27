@@ -1,3 +1,5 @@
+![Network diagram](assets/c18_topo.png)
+
 # Required Images
 - MikroTik CHR 7.16
   - [chr-7.16.img.zip](https://download.mikrotik.com/routeros/7.16/chr-7.16.img.zip)
