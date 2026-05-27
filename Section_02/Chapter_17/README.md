@@ -1,5 +1,3 @@
-# Required Templates
+# Required Images
 
-- VPCS
-- Ethernet Hub
-- Ethernet Switch
+N/A
