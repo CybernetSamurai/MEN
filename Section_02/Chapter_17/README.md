@@ -1,1 +1,5 @@
-lorem ipsum
+# Required Templates
+
+- VPCS
+- Ethernet Hub
+- Ethernet Switch
