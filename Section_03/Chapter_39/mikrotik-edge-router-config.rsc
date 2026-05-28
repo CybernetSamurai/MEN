@@ -1,6 +1,9 @@
 /system/identity
 set name=edge-router
 
+/ip/dhcp-client
+remove 0
+
 /interface/vlan
 add name=VLAN10 vlan-id=10 interface=ether1
 add name=VLAN20 vlan-id=20 interface=ether1
