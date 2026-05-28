@@ -1,6 +1,9 @@
 /system/identity
 set name=switch-1
 
+/ip/dhcp-client
+remove 0
+
 /interface/bridge
 add name=bridge1 vlan-filtering=no
 
